@@ -8,8 +8,6 @@ This project is a **responsive landing page** designed for **University Insights
 
 🔗 [View Website](https://mbbs-website-lac.vercel.app/)
 
----
-
 ## Features
 
 ✅ **Fully Responsive Design** – Works on all screen sizes  
@@ -20,8 +18,6 @@ This project is a **responsive landing page** designed for **University Insights
 ✅ **SEO Optimized** – Improved search visibility  
 ✅ **Fast & Lightweight** – Optimized for performance
 
----
-
 ## Tech Stack
 
 - **HTML5** – Structure
@@ -29,8 +25,6 @@ This project is a **responsive landing page** designed for **University Insights
 - **JavaScript (Vanilla JS)** – Form validation & interactions
 - **Google Analytics & Facebook Pixel** – User behavior tracking
 - **Vercel** – Deployment
-
----
 
 ## 🌍 Deployment
 
