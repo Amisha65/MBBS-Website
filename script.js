@@ -48,3 +48,20 @@ document.addEventListener("DOMContentLoaded", function () {
         }
     });
 });
+
+
+document.getElementById("yourFormID").addEventListener("submit", function(event) {
+    event.preventDefault(); // Prevent actual submission
+
+    // Google Analytics Event Tracking
+    gtag('event', 'form_submission', {
+        'event_category': 'Lead',
+        'event_label': 'MBBS Abroad'
+    });
+
+    // Facebook Pixel Event Tracking
+    fbq('track', 'Lead');
+
+    alert("Form submitted successfully!");
+    this.reset(); // Reset the form
+});
