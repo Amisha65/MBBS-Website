@@ -42,6 +42,6 @@ This project is deployed on Vercel for a seamless experience. To deploy:
 
 ## 👤 Author
 
-**Amisha Dhanawade**
-📧 amishadh00@gmail.com
+**Amisha Dhanawade**<br>
+📧 amishadh00@gmail.com <br>
 🔗 [GitHub Profile](https://github.com/Amisha65)
